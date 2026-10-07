@@ -4,6 +4,8 @@ A PowerShell tool for enumerating effective Microsoft Defender exclusions on a t
 
 Probing is done via `MpCmdRun.exe` so no third-party dependencies are required.
 
+![Description](images/image555.png)
+
 ---
 
 ## Usage
